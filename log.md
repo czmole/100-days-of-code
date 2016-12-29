@@ -1,8 +1,8 @@
 # 100 Days Of Code - Log
 
 ### Day 1: December 29, 2016 (Example 1)
-##### (delete me or comment me out)
-**Thoughts:** This project is meant to build a small API that would be consumed inside a mobile application. There is already a web application used kinda intensively by a niche of users — students. This project was written back in time when I was at the beginning of web development as a side project/idea, then was turned into a freelance/paid project and now seems to be more demand for it to have a mobile interface for input.
+
+**Thoughts:** This project is meant to build a small API that would be consumed inside a mobile application. There is already a web application used kinda intensively by a niche of users - students. This project was written back in time when I was at the beginning of web development as a side project/idea, then was turned into a freelance/paid project and now seems to be more demand for it to have a mobile interface for input.
 
 I can’t really give more details about it because I am under an NDA, even if now I am actually back into volunteering in this project. Therefore I can not really provide the GitHub repo link.
 
