@@ -17,3 +17,7 @@ For the future, I am planning to talk the owner about a second version of the we
 **Today's Progress**: after 1st day I have all the libraries set up, a document with all the end points and the authentication working.
 
 **Link to a blog post on this:** [#100DaysOfCode starting today](https://newbitsontheblog.com/100daysofcode-starting-today-1727256d92f#.lmzh6qusc)
+
+### Day 2: January 3, 2017 
+
+**Today's Progress**: Worked and finished on an auth midleware, new API calls completed for pulling some standard lists, type of users, general lists that will be used across the app in different screens. Also found an easy way to test the API calls inside the editor I am trying now (VS Code) - the plugin URL is here https://marketplace.visualstudio.com/items?itemName=humao.rest-client - ussually I am using Postman to test my calls.
